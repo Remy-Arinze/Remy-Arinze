@@ -1,7 +1,11 @@
 👋 Hi, I'm Jeremy Arinze Obasi
+
 🚀 Passionate about creating seamless digital experiences using cutting-edge development tools.
+
 💼 Proficient in: TypeScript,Next.js,React Native and Flutter
+
 🌟 My expertise lies in building scalable and robust web and mobile applications.
+
 🤝 Open to collaboration on exciting frontend projects.
 
 📫 Reach out to me:
