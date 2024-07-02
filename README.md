@@ -12,7 +12,7 @@
 - Email: remyarinze@gmail.com
 - WhatsApp: [Click here to chat](https://wa.me/+2347065605763)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Remy-Arinze&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Remy-Arinze&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy-Arinze&hide=css,scss,html&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Remy-Arinze&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
