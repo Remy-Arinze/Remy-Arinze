@@ -9,9 +9,6 @@
 🤝 Open to collaboration on exciting frontend projects.
 
 📫 Reach out to me:
-
-
-## 🌐 Socials:
 - Email: remyarinze@gmail.com
 - LinkedIn: https://www.linkedin.com/in/arinze-obasi-161618233/
 - Twitter: https://x.com/Remy_Arinze
